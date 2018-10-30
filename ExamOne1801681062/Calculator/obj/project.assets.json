@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joana\\Desktop\\Exam\\PU-IntroCSharp-1801681062-E1\\ExamOne1801681062\\ConsoleApp1\\RectangleArea.csproj",
-      "projectName": "RectangleArea",
-      "projectPath": "C:\\Users\\Joana\\Desktop\\Exam\\PU-IntroCSharp-1801681062-E1\\ExamOne1801681062\\ConsoleApp1\\RectangleArea.csproj",
+      "projectUniqueName": "C:\\Users\\Joana\\Desktop\\Exam\\PU-IntroCSharp-1801681062-E1\\ExamOne1801681062\\Calculator\\Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "C:\\Users\\Joana\\Desktop\\Exam\\PU-IntroCSharp-1801681062-E1\\ExamOne1801681062\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Joana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joana\\Desktop\\Exam\\PU-IntroCSharp-1801681062-E1\\ExamOne1801681062\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Joana\\Desktop\\Exam\\PU-IntroCSharp-1801681062-E1\\ExamOne1801681062\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

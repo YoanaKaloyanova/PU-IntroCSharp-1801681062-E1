@@ -1,0 +1,11 @@
+C:\Users\Joana\Desktop\Exam\PU-IntroCSharp-1801681062-E1\ExamOne1801681062\ConsoleApp1\bin\Debug\netcoreapp2.1\RectangleArea.deps.json
+C:\Users\Joana\Desktop\Exam\PU-IntroCSharp-1801681062-E1\ExamOne1801681062\ConsoleApp1\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.json
+C:\Users\Joana\Desktop\Exam\PU-IntroCSharp-1801681062-E1\ExamOne1801681062\ConsoleApp1\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.dev.json
+C:\Users\Joana\Desktop\Exam\PU-IntroCSharp-1801681062-E1\ExamOne1801681062\ConsoleApp1\bin\Debug\netcoreapp2.1\RectangleArea.dll
+C:\Users\Joana\Desktop\Exam\PU-IntroCSharp-1801681062-E1\ExamOne1801681062\ConsoleApp1\bin\Debug\netcoreapp2.1\RectangleArea.pdb
+C:\Users\Joana\Desktop\Exam\PU-IntroCSharp-1801681062-E1\ExamOne1801681062\ConsoleApp1\obj\Debug\netcoreapp2.1\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Joana\Desktop\Exam\PU-IntroCSharp-1801681062-E1\ExamOne1801681062\ConsoleApp1\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Joana\Desktop\Exam\PU-IntroCSharp-1801681062-E1\ExamOne1801681062\ConsoleApp1\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfo.cs
+C:\Users\Joana\Desktop\Exam\PU-IntroCSharp-1801681062-E1\ExamOne1801681062\ConsoleApp1\obj\Debug\netcoreapp2.1\RectangleArea.dll
+C:\Users\Joana\Desktop\Exam\PU-IntroCSharp-1801681062-E1\ExamOne1801681062\ConsoleApp1\obj\Debug\netcoreapp2.1\RectangleArea.pdb
+C:\Users\Joana\Desktop\Exam\PU-IntroCSharp-1801681062-E1\ExamOne1801681062\ConsoleApp1\obj\Debug\netcoreapp2.1\RectangleArea.csprojAssemblyReference.cache
